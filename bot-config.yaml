@@ -1,0 +1,6 @@
+telegram_bot:
+        token: "past here"
+
+api_entry_point:
+        binance: "https://api.binance.com/api/v3"
+        currency: "https://marketcap.backend.currency.com/api/v1"
